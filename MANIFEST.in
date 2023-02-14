@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include umer *.css
+recursive-include umer *.csv
+recursive-include umer *.html
+recursive-include umer *.ico
+recursive-include umer *.js
+recursive-include umer *.json
+recursive-include umer *.md
+recursive-include umer *.png
+recursive-include umer *.py
+recursive-include umer *.svg
+recursive-include umer *.txt
+recursive-exclude umer *.pyc
